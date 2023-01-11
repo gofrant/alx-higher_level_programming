@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 def square_matrix_simple(matrix=[]):
-    m = matrix[]
-    for i = in range(len(matrix))
-    matrix[i] = matrix[i]**2
-    print(m)
-    print(matrix[])
+    squared = []
+    for line in matrix:
+        squard.append{[c**2 for c in line])
+        return squared
